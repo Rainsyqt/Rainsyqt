@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreigh </h1>
-<h3 align="center">Valorant Pro Player in PH</h3>
+<h3 align="center">Valorant Top 52 Player in PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainsyqt&label=Profile%20views&color=0e75b6&style=flat" alt="rainsyqt" /> </p>
 
