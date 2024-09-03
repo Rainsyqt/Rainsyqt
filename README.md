@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rainsyfps" target="blank"><img src="https://img.shields.io/twitter/follow/rainsyfps?logo=twitter&style=for-the-badge" alt="rainsyfps" /></a> </p>
 
-- 🌱 I’m currently learning **more about unity and jvscript**
+- 🌱 I’m currently learning **more about Unreal Engine and jvscript**
 
 - 💬 Ask me about **jvscript , unity , python,**
 
