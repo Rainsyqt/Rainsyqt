@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about Unreal Engine and jvscript**
 
-- 💬 Ask me about **jvscript , unity , python,**
+- 💬 Ask me about **html&css , unity , python,**
 
 - 📫 How to reach me **rainofficialvr@gmail.com**
 
